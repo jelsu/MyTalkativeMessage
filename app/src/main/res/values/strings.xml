@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTalkativeMessage</string>
+    <string name="toggle_button_text_off_string">Start speaking</string>
+    <string name="toggle_button_text_on_string">Stop speaking</string>
+    <string name="start_speaking">Чтение сообщений включено.</string>
+    <string name="stop_speaking">Чтение сообщений выключено.</string>
+</resources>
